@@ -15,3 +15,11 @@ ul {
 section {
   float: left;
 }
+
+/** IDs **/
+#great-list {
+  font-family: "Times News Roman", serif;
+}
+/** classes **/
+.container {
+}
